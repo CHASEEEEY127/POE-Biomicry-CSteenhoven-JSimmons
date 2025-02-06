@@ -1,4 +1,4 @@
-
+//now added to github
 int waitTime = 2;
 int ticksPerSecond =100;
 int waitTicks=waitTime*ticksPerSecond;
